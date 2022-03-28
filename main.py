@@ -5,3 +5,5 @@ print('second line')
 print('156')
 
 print('zero')
+
+print('2')
